@@ -32,3 +32,4 @@ def merge(left, right):
 
 arr = [4,6,7,1,8,10,4]
 print(mergesort(arr))
+
